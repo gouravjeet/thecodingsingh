@@ -1,7 +1,7 @@
 {
   "main.css": "/thecodingsingh/static/css/main.ec754795.chunk.css",
-  "main.js": "/thecodingsingh/static/js/main.ae98ad50.chunk.js",
-  "main.js.map": "/thecodingsingh/static/js/main.ae98ad50.chunk.js.map",
+  "main.js": "/thecodingsingh/static/js/main.e722ac80.chunk.js",
+  "main.js.map": "/thecodingsingh/static/js/main.e722ac80.chunk.js.map",
   "static/js/1.6105a37c.chunk.js": "/thecodingsingh/static/js/1.6105a37c.chunk.js",
   "static/js/1.6105a37c.chunk.js.map": "/thecodingsingh/static/js/1.6105a37c.chunk.js.map",
   "runtime~main.js": "/thecodingsingh/static/js/runtime~main.46aff984.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/thecodingsingh/static/media/logo.5d5d9eef.svg",
   "static/css/main.ec754795.chunk.css.map": "/thecodingsingh/static/css/main.ec754795.chunk.css.map",
   "index.html": "/thecodingsingh/index.html",
-  "precache-manifest.74cbe3f6b8d761211698092226aa0f45.js": "/thecodingsingh/precache-manifest.74cbe3f6b8d761211698092226aa0f45.js",
+  "precache-manifest.58afd47796ad1f1cbbcdb2a17ed1a101.js": "/thecodingsingh/precache-manifest.58afd47796ad1f1cbbcdb2a17ed1a101.js",
   "service-worker.js": "/thecodingsingh/service-worker.js"
 }
