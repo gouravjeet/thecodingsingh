@@ -30,7 +30,7 @@ class Navigation extends Component {
         return (
         <div>
             <Navbar color="light" light expand="md">
-            <NavbarBrand href="/">
+            <NavbarBrand href="#/">
             thecodingsingh <img height={'50px'} src={gravatar} alt="logo" />
             </NavbarBrand>
             <NavbarToggler onClick={this.toggle} />
