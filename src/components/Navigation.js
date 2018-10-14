@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import gravatar from '../gravatar_png.png';
+
 import {
     Collapse,
     Navbar,
@@ -36,17 +37,17 @@ class Navigation extends Component {
             <Collapse isOpen={this.state.isOpen} navbar>
                 <Nav className="ml-auto" navbar>
                     <NavItem>
-                        <NavLink href="/components/">Blog</NavLink>
+                        <NavLink href="#/about/">About Me</NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink href="https://github.com/gouravjeet">GitHub</NavLink>
+                        <NavLink href="#/blogs/">Blog</NavLink>
                     </NavItem>
-                    <NavItem>
-                        <NavLink href="/projects">Projects</NavLink>
-                    </NavItem>
-                    <NavItem>
-                        <NavLink href="/resume">Resume</NavLink>
-                    </NavItem>
+                    {/* <NavItem>
+                        <NavLink href="#/projects">Projects</NavLink>
+                    </NavItem> */}
+                    {/* <NavItem>
+                        <NavLink href="#/resume">Resume</NavLink>
+                    </NavItem> */}
                 </Nav>
             </Collapse>
             </Navbar>
